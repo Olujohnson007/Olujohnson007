@@ -11,11 +11,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
+[
+https://www.linkedin.com/in/olu-johnson-1483b4223/#:~:text=www.linkedin.com/in/olu%2Djohnson%2D1483b4223
 
 
-[<img align="left" alt="Olu johnson | LinkedIn"  www.linkedin.com/in/olu-johnson-1483b4223" />][linkedin]
-
-
-
-[linkedin]: www.linkedin.com/in/olu-johnson-1483b4223
 
