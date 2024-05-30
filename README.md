@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   -Creating a live SOC / Honeynet in Azure (https://github.com/Olujohnson007/Azure-Soc )
-- <b>Full Stack (React, NodeJS, Azure)</b>
+- <b>Full Stack (React, NodeJ,CSS,JavScript)</b> https://github.com/kaykay2023?tab=repositories
   
 
 
