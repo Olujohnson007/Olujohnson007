@@ -5,7 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   -Creating a live SOC / Honeynet in Azure (https://github.com/Olujohnson007/Azure-Soc )
  - <b>Linux File/Directory permission (https://github.com/Olujohnson007/LinuxFilePermission  )
-- <b>Full Stack (React, NodeJ,CSS,JavScript)</b> https://github.com/kaykay2023?tab=repositories
+ - <b>SQL-querries (https://github.com/Olujohnson007/SQL-queries)
+ - <b>Full Stack (React, NodeJ,CSS,JavScript)</b> https://github.com/kaykay2023?tab=repositories
   
 
 
